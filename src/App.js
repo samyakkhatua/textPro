@@ -3,7 +3,7 @@ function App() {
   return (
     <div className=''>
         <h5>write like a pro!</h5>
-        <h1>TEXT PRO</h1>
+        <h1>TEXT PRO APP</h1>
       <TextForm />
     </div>
   );
